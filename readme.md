@@ -1,8 +1,6 @@
 ###
 
-# **👋 Hi, I'm Christian**
-
-Hello, I'm a guy who gives 30% effort to understand the machine, but 100% to look like a hacker. 😎💻
+# **👋 Hi
 
 🚀 **My Mission**
 

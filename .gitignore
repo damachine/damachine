@@ -24,16 +24,9 @@ Thumbs.db
 *.swp
 *.swo
 .vscode/
-.idea/
+.qodo/
 
 # Compressed archives
 *.tar.xz
 *.tar.gz
 *.zip
-
-# Release tarballs
-tkginstaller-*.pkg.*
-
-# Local test files
-PKGBUILD-test
-test-*

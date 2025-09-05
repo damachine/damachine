@@ -1,6 +1,6 @@
 # 👋 Hey, I’m damachine
 
-![Linux](https://img.shields.io/badge/Linux-Arch%20Linux-blue?logo=arch-linux&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-Arch%20Linux-blue?logo=arch-linux&logoColor=white)](https://aur.archlinux.org/packages?SeB=m&K=damachine)
 ![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white)
 ![Crypto](https://img.shields.io/badge/Interest-Crypto-orange?logo=bitcoin&logoColor=white)
@@ -33,4 +33,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=damachine&color=blue&style=flat-square)  
 
 ---
-

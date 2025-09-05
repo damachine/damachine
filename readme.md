@@ -1,14 +1,48 @@
-###
+# 👋 Hey, I’m damachine
 
-# **👋 Hello World!**
+![Linux](https://img.shields.io/badge/Linux-Arch%20Linux-blue?logo=arch-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white)
+![Crypto](https://img.shields.io/badge/Interest-Crypto-orange?logo=bitcoin&logoColor=white)
+![Retro](https://img.shields.io/badge/Retro-Amiga-red?logo=commodore&logoColor=white)
 
-🚀 **My Mission**
+---
 
-- 🔧 Crafting tools that make life easier (and maybe a bit cooler)
-- 🤝 Sharing knowledge & code with the open source crowd
-- 🏡 Turning home work from "nice idea" into "works every day"
-- 📈 Always learning, always leveling up – because the machine never sleeps!
+💾 Computers have been part of my life since the **early 90s with the Amiga**. In the 2000s, I earned my **MCSE** and worked professionally in **IT administration**. Since around **2013, Linux (mainly Arch 🐧)** has been my daily driver – and my favorite playground for learning, breaking, and fixing things.  
 
-In this spirit: **KISS – Keep It Simple, Stupid!** 🐧 
+🔧 Over the years, I discovered that **knowledge only grows when shared**. That’s why I’m here: to give something back to the open source community.  
 
-### 
+🚀 What drives me:  
+- 🛠️ Building tools & scripts that make life easier  
+- 📚 Sharing knowledge & experience  
+- 💡 Learning from others & leveling up together  
+- ₿ Exploring the world of **crypto & blockchain**  
+
+---
+
+## 🌟 Mission Statement
+**KISS – Keep It Simple, Stupid!**  
+I believe in simple, practical solutions. No unnecessary complexity.  
+
+---
+
+## ⚡ Tech & Interests
+- 🐧 Linux (Arch Linux enthusiast)  
+- 💻 Bash, Python, automation & scripting  
+- 🔒 System administration & networking  
+- 🎮 Gaming & retro systems (Amiga ❤️)  
+- ₿ Crypto, blockchain & decentralized tech  
+- 🧩 Lifelong learning  
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damachine&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damachine&theme=tokyonight&hide_border=true)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=damachine&color=blue&style=flat-square)  
+
+---
+

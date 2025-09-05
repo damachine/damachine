@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white)
 ![Crypto](https://img.shields.io/badge/Interest-Crypto-orange?logo=bitcoin&logoColor=white)
 ![Retro](https://img.shields.io/badge/Retro-Amiga-red?logo=commodore&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-Raspberry%20Pi-crimson?logo=raspberry-pi&logoColor=white)
 
 ---
 

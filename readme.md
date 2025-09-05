@@ -12,18 +12,6 @@
 
 🔧 Over the years, I discovered that **knowledge only grows when shared**. That’s why I’m here: to give something back to the open source community.  
 
-🚀 What drives me:  
-- 🛠️ Building tools & scripts that make life easier  
-- 📚 Sharing knowledge & experience  
-- 💡 Learning from others & leveling up together  
-- ₿ Exploring the world of **crypto & blockchain**  
-
----
-
-## 🌟 Mission Statement
-**KISS – Keep It Simple, Stupid!**  
-I believe in simple, practical solutions. No unnecessary complexity.  
-
 ---
 
 ## ⚡ Tech & Interests

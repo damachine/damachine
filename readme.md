@@ -9,9 +9,7 @@
 
 ---
 
-💾 Computers have been part of my life since the early 90s with the Amiga. In the 2000s, I earned my MCSE and worked professionally in IT-Administration. Since around 2013, Linux (mainly Arch 🐧) has been my daily driver – and my favorite playground for learning, breaking, and fixing things.  
-
-🔧 Over the years, I discovered that **knowledge only grows when shared**. That’s why I’m here: to give something back to the open source community.  
+💾 Computers have been part of my life since the early 90s.
 
 ---
 

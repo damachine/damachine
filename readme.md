@@ -15,8 +15,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damachine&layout=compact&theme=tokyonight)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damachine&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/damachine)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damachine&theme=tokyonight&hide_border=true)   
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damachine&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damachine&theme=tokyonight&hide_border=true)   
 
 ---
 

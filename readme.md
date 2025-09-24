@@ -10,9 +10,9 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damachine&show_icons=true&theme=github_dark&hide_border=false&card_width=1024)   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damachine&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&card_width=1024)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damachine&show_icons=true&layout=compact&theme=github_dark&hide_border=false&card_width=1024)   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damachine&show_icons=true&theme=github_dark&hide_border=false&card_width=1024)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damachine&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&card_width=1024)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damachine&show_icons=true&layout=compact&theme=github_dark&hide_border=false&card_width=1024)  
 
 ---
 

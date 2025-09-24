@@ -4,8 +4,7 @@
 
 # Hey, I’m damachine 👋
 
-#### `Sometimes it is the people no one can imagine anything of who do the things no one can imagine.`
-***`- Alan Turing -`***
+##### **`Sometimes it is the people no one can imagine anything of who do the things no one can imagine.`** ***`- Alan Turing -`***
 
 ![Profile Views](https://komarev.com/ghpvc/?username=damachine&color=blue&style=flat-square) 
 

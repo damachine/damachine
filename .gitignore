@@ -1,32 +1,33 @@
-# Build artifacts
-build/
-bin/
-*.a
-*.o
-*.so
-
 # Temporary files
+.cache/
+.makepkg/
 pkg/
 temp/
 *~
 *.tmp
 *.log
 *.bak
-.cache/
-.makepkg/
 
 # OS files
+.directory
 .DS_Store
 Thumbs.db
 
 # Editor files
 *.code-workspace
+*.kate-swp
 *.swp
 *.swo
 .vscode/
+.idea/
 .qodo/
+.codacy/
 
 # Compressed archives
 *.tar.xz
 *.tar.gz
 *.zip
+*.gz
+*.xz
+*.zst
+*.pkg.*

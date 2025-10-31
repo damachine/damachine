@@ -2,7 +2,7 @@
 
 # Hey, I’m damachine <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;" data-target="animated-image.originalImage">
 
-💻 **IT Network Specialist** • 🐧 **Linux Enthusiast** • 🧠 **Coder** 
+**IT Network Specialist** • **Linux Enthusiast** • **Coder** 
 
 ### About Me
 - Passionate about **building systems from scratch**

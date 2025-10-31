@@ -1,6 +1,31 @@
 <div align="left">
 
-# Hey, I’m damachine <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;" data-target="animated-image.originalImage"> 
+# Hey, I’m damachine <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;" data-target="animated-image.originalImage">
+
+💻 **IT Network Specialist** • 🐧 **Linux Enthusiast** • 🧠 **Coder** 
+
+### About Me
+- Passionate about **building systems from scratch**
+- Love for **low-level tinkering**, **automation**, and **custom Linux environments**
+- Dedicated fan of **Arch Linux**, **Gentoo**, and **Linux From Scratch**
+- Experienced in **network administration**, **system integration**, and **infrastructure management**
+-  Currently exploring **performance tuning**, **source-based distributions**, and **coding my own tools**
+
+---
+
+### Tech Stack
+**Operating Systems**
+> ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+> ![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)
+> ![Linux From Scratch](https://img.shields.io/badge/-LFS-2C3E50?logo=linux&logoColor=white)
+
+**Languages & Tools**
+> ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+> ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+> ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+> ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
 
 ##### **`Sometimes it is the people no one can imagine anything of who do the things no one can imagine.` `- Alan Turing -`**
 

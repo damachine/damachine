@@ -6,7 +6,7 @@
 
 ### About Me
 - Passionate about **building systems from scratch**
-- Love for **low-level tinkering**, **automation**, and **custom Linux environments**
+- Love for **tinkering**, **automation**, and **custom Linux environments**
 - Dedicated fan of **Arch Linux**, **Gentoo**, and **Linux From Scratch**
 - Experienced in **network administration**, **system integration**, and **infrastructure management**
 -  Currently exploring **performance tuning**, **source-based distributions**, and **coding my own tools**

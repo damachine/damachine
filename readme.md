@@ -1,45 +1,27 @@
 <div align="left">
 
-# Hey, I’m damachine <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;" data-target="animated-image.originalImage">
+Hey, I’m **DAMACHINE** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;" data-target="animated-image.originalImage"> Network Specialist   •   Linux Enthusiast
 
-**IT Network Specialist**   •   **Linux Enthusiast**
+![Debian](https://img.shields.io/badge/-Debian-2C3E50?logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-2C3E50?logo=arch-linux&logoColor=white)
+![Gentoo](https://img.shields.io/badge/-Gentoo-2C3E50?logo=gentoo&logoColor=white)
+![Linux From Scratch](https://img.shields.io/badge/-LFS-2C3E50?logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/-C-2C3E50?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-2C3E50?logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-2C3E50?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2C3E50?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-2C3E50?logo=gnu-bash&logoColor=white)
 
-### About Me
-- Passionate about **building systems from scratch**
-- Love for **tinkering**, **automation**, and **custom Linux environments**
-- Dedicated fan of **Arch Linux**, **Gentoo**, and **Linux From Scratch**
-- Experienced in **network administration**, **system integration**, and **infrastructure management**
--  Currently exploring **performance tuning**, **source-based distributions**, and **coding my own tools**
-
----
-
-##### **`Sometimes it is the people no one can imagine anything of who do the things no one can imagine.` `- Alan Turing -`**
-
-![Profile Views](https://komarev.com/ghpvc/?username=damachine&color=blue&style=flat-square) 
+`Sometimes it is the people no one can imagine anything of who do the things no one can imagine.` `- Alan Turing -`
 
 ---
 
-### Tech Stack
-**Operating Systems**
-> ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
-> ![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)
-> ![Linux From Scratch](https://img.shields.io/badge/-LFS-2C3E50?logo=linux&logoColor=white)
-
-**Languages & Tools**
-> ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-> ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-> ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-> ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![DAMACHINE's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damachine&background=00000000&ring=2C3E50&fire=2C3E50&currStreakNum=2C3E50&sideNums=2C3E50&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=2C3E50&border=2C3E50&card_width=1024)  
+![DAMACHINE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damachine&show_icons=true&title_color=2C3E50&text_color=2C3E50&icon_color=2C3E50&border_color=2C3E50&bg_color=00000000&card_width=1024)  
+![DAMACHINE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damachine&layout=compact&title_color=2C3E50&text_color=2C3E50&icon_color=2C3E50&border_color=2C3E50&bg_color=00000000&card_width=1024)
 
 ---
 
-[![DAMACHINE's GitHub Streak-Dark](http://github-readme-streak-stats.herokuapp.com?user=damachine&theme=github-dark&card_width=1024#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![DAMACHINE's GitHub Streak-Light](http://github-readme-streak-stats.herokuapp.com?user=damachine&theme=default&card_width=1024#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-[![DAMACHINE's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=damachine&show_icons=true&theme=github_dark&card_width=1024#gh-dark-mode-only)](https://github.com/damachine/github-readme-stats#gh-dark-mode-only)
-[![DAMACHINE's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=damachine&show_icons=true&theme=default&card_width=1024#gh-light-mode-only)](https://github.com/damachine/github-readme-stats#gh-light-mode-only)
-[![DAMACHINE's Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=damachine&show_icons=true&layout=compact&theme=github_dark&hide_border=false&card_width=1024#gh-dark-mode-only)](https://github.com/damachine/github-readme-stats#gh-dark-mode-only)
-[![DAMACHINE's Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=damachine&show_icons=true&layout=compact&theme=default&hide_border=false&card_width=1024#gh-dark-mode-only)](https://github.com/damachine/github-readme-stats#gh-light-mode-only) 
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=damachine&color=2C3E50&style=flat-square) 
 
 </div>

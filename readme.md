@@ -22,6 +22,6 @@ Hey, I’m **DAMACHINE** <img src="https://emojis.slackmojis.com/emojis/images/1
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=damachine&color=2C3E50&style=flat-square) 
+![Profile Views](https://komarev.com/ghpvc/?username=damachine&color=2C3E50&style=flat-square)
 
 </div>

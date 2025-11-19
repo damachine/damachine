@@ -1,4 +1,5 @@
 <div align="left">
+  
 Hey, I’m **DAMACHINE** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;" data-target="animated-image.originalImage"> Network Specialist   •   Linux Enthusiast
 
 ![Debian](https://img.shields.io/badge/-Debian-2C3E50?logo=debian&logoColor=white)
@@ -22,4 +23,5 @@ Hey, I’m **DAMACHINE** <img src="https://emojis.slackmojis.com/emojis/images/1
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=damachine&color=2C3E50&style=flat-square)
+
 </div>

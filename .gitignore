@@ -1,0 +1,24 @@
+# Temporary files
+temp/
+*~
+*.tmp
+*.log
+*.bak
+
+# OS files
+.directory
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.code-workspace
+*.kate-swp
+*.swp
+*.swo
+.vscode/
+.idea/
+.qodo/
+.codacy/
+
+# Ignore vscode AI rules
+.github/instructions/codacy.instructions.md

@@ -6,7 +6,7 @@
 Every process, even the counter-processes – whether conscious or unconscious – changes the state
    of the entire system.</em>
 
-<em>Some of my best learning experiences were those in which I didn't understand something.</em>
+<em>Some of my best learning experiences have been when I didn't understand something.</em>
    
 <em>I learn for 25 years</em>
 <img src="https://img.shields.io/badge/-C-2C3E50?logo=c&logoColor=white"><img src="https://img.shields.io/badge/-C%2B%2B-2C3E50?logo=cplusplus&logoColor=white"><img src="https://img.shields.io/badge/-Python-2C3E50?logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Bash-2C3E50?logo=gnu-bash&logoColor=white"><img src="https://img.shields.io/badge/-LFS-2C3E50?logo=linux&logoColor=white"> ...
